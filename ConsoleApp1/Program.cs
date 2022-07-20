@@ -12,4 +12,4 @@ int Product(int x, int y) {
     return x * y;
 }
 
-Console.WriteLine(Product(3, 3));
+Console.WriteLine(Product(3, 4));
